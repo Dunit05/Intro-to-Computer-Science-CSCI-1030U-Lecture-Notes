@@ -45,6 +45,18 @@ You can use this equivalent command in Linux or MacOS:
 
 `python3 -m pytest --cov`
 
+### Generating a Coverage Report
+
+To generate a coverage report, you can use the following command in Windows:
+
+`pytest --cov --cov-report html`
+
+You can use this equivalent command in Linux or MacOS:
+
+`python3 -m pytest --cov --cov-report html`
+
+This will generate a folder called `htmlcov` that contains a file called `index.html`. You can open this file in your web browser to see the coverage report.
+
 ## How to Submit
 
 First, ensure that your code passes the tests (see the section **Verifying Correctness** for details). If you are certain that your code passes all of the tests, then you can submit your work using the following commands:
