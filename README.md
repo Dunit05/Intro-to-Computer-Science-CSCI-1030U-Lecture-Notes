@@ -2,6 +2,13 @@
 
 Here you will find all the in-class lecture code that we go over. This repository is a comprehensive collection of code examples, projects, and exercises designed to complement the material covered in the intro to computer science lectures.
 
+## Folder Structure
+
+The workspace contains folders labeled by `date (name)` by default, where:
+
+- `Notes`: the folder contains the days lecture notes, with an excutable python file `index.py` & jupyter notebook file `index.ipynb`.
+- `Exercises`: the folder contains the days exercises, with an excutable python file `index.py` & jupyter notebook file `index.ipynb`.
+
 ## Getting Started
 
 Install pytest, which is a module for Python that allows you to verify that your code is correct before you submit, using the following command in Windows:
