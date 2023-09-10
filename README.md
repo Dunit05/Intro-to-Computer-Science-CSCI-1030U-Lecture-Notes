@@ -27,6 +27,10 @@ sudo -H pip3 install pytest-cov
 
 If you have previously installed `pytest`, then you can skip this step.
 
+## Adding test files
+
+To add a test file, you can craete a test file using the naming convention `test_*.py` or `*_test.py`. For example, if you have a file called `my_file.py`, then you can create a test file called `test_my_file.py` or `my_file_test.py`.
+
 ## Running the tests
 
 To run the tests, you can use the following command in Windows:
