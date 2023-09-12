@@ -61,6 +61,13 @@ You can use this equivalent command in Linux or MacOS:
 
 This will generate a folder called `htmlcov` that contains a file called `index.html`. You can open this file in your web browser to see the coverage report.
 
+## Refrences/Tools
+
+- [Python](https://www.python.org/)
+- [Pytest](https://docs.pytest.org/en/stable/)
+- [Pytest-cov](https://pytest-cov.readthedocs.io/en/latest/)
+- [Textbook](https://runestone.academy/runestone/books/published/thinkcspy/index.html)
+
 ## How to Submit
 
 First, ensure that your code passes the tests (see the section **Verifying Correctness** for details). If you are certain that your code passes all of the tests, then you can submit your work using the following commands:
