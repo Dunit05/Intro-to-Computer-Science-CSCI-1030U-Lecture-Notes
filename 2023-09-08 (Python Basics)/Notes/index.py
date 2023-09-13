@@ -3,7 +3,7 @@ name = input("What is your name? ")
 print(name)
 print("Hello", name, "!", sep="+", end="")
 
-# Keys
+# Important Keys
 
 # New line
 print("\n")
