@@ -61,7 +61,7 @@ You can use this equivalent command in Linux or MacOS:
 
 This will generate a folder called `htmlcov` that contains a file called `index.html`. You can open this file in your web browser to see the coverage report.
 
-## Refrences/Tools
+## References/Tools
 
 - [Python](https://www.python.org/)
 - [Pytest](https://docs.pytest.org/en/stable/)
