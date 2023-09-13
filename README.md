@@ -6,10 +6,20 @@ Here you will find all the in-class lecture code that we go over. This repositor
 
 The workspace contains folders labeled by `date (name)` by default, where:
 
-- `Notes`: the folder contains the days lecture notes, with an excutable python file `index.py` & jupyter notebook file `index.ipynb`.
-- `Exercises`: the folder contains the days exercises, with an excutable python file `index.py` & jupyter notebook file `index.ipynb`.
+- `Notes`: the folder contains the days lecture notes, with an executable python file `index.py` & jupyter notebook file `index.ipynb`.
+- `Exercises`: the folder contains the days exercises, with an executable python file `index.py` & jupyter notebook file `index.ipynb`.
 
 ## Getting Started
+
+Clone any repository to your local machine using the following command in Windows:
+
+`git clone (url)`
+`cd (folder name)`
+
+You can use this equivalent command in Linux or MacOS:
+
+`git clone (url)`
+`cd (folder name)`
 
 Install pytest, which is a module for Python that allows you to verify that your code is correct before you submit, using the following command in Windows:
 
@@ -29,9 +39,9 @@ If you have previously installed `pytest`, then you can skip this step.
 
 ## Adding test files
 
-To add a test file, you can craete a test file using the naming convention `test_*.py` or `*_test.py`. For example, if you have a file called `my_file.py`, then you can create a test file called `test_my_file.py` or `my_file_test.py`.
+To add a test file, you can create a test file using the naming convention `test_*.py` or `*_test.py`. For example, if you have a file called `my_file.py`, then you can create a test file called `test_my_file.py` or `my_file_test.py`.
 
-## Running the tests
+## Running the Tests
 
 To run the tests, you can use the following command in Windows:
 
@@ -48,6 +58,10 @@ If you want to see the code coverage, then you can use the following command in 
 You can use this equivalent command in Linux or MacOS:
 
 `python3 -m pytest --cov`
+
+## Verifying Correctness
+
+To verify that your code is correct, you can run the tests. If your code passes all of the tests, then you can be confident that your code is correct. However, if your code fails any of the tests, then you will need to fix your code and try again.
 
 ### Generating a Coverage Report
 
