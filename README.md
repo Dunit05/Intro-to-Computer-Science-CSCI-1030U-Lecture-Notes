@@ -73,7 +73,8 @@ This will generate a folder called `htmlcov` that contains a file called `index.
 First, ensure that your code passes the tests (see the section **Verifying Correctness** for details). If you are certain that your code passes all of the tests, then you can submit your work using the following commands:
 
 ```
-git add --all
+pytest
+git add .
 git commit -m "Demo lab completed code"
 git push origin main
 ```
