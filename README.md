@@ -2,6 +2,13 @@
 
 Here you will find all the in-class lecture code that we go over. This repository is a comprehensive collection of code examples, projects, and exercises designed to complement the material covered in the intro to computer science lectures.
 
+## References/Tools
+
+- [Python](https://www.python.org/)
+- [Pytest](https://docs.pytest.org/en/stable/)
+- [Pytest-cov](https://pytest-cov.readthedocs.io/en/latest/)
+- [Textbook](https://runestone.academy/runestone/books/published/thinkcspy/index.html)
+
 ## Folder Structure
 
 The workspace contains folders labeled by `date (name)` by default, where:
@@ -78,13 +85,6 @@ You can use this equivalent command in Linux or MacOS:
 `python3 -m pytest --cov --cov-report html`
 
 This will generate a folder called `htmlcov` that contains a file called `index.html`. You can open this file in your web browser to see the coverage report.
-
-## References/Tools
-
-- [Python](https://www.python.org/)
-- [Pytest](https://docs.pytest.org/en/stable/)
-- [Pytest-cov](https://pytest-cov.readthedocs.io/en/latest/)
-- [Textbook](https://runestone.academy/runestone/books/published/thinkcspy/index.html)
 
 ## How to Submit
 
