@@ -13,13 +13,17 @@ The workspace contains folders labeled by `date (name)` by default, where:
 
 Clone any repository to your local machine using the following command in Windows:
 
-`git clone (url)`
-`cd (folder name)`
+```
+git clone (url)
+cd (folder name)
+```
 
 You can use this equivalent command in Linux or MacOS:
 
-`git clone (url)`
-`cd (folder name)`
+```
+git clone (url)
+cd (folder name)
+```
 
 Install pytest, which is a module for Python that allows you to verify that your code is correct before you submit, using the following command in Windows:
 
