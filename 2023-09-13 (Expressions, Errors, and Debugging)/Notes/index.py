@@ -1,4 +1,4 @@
-# or & and examples, with conditional statements
+# Or & and examples, with conditional statements
 
 a = 1
 

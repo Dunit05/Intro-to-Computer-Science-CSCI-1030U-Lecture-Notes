@@ -1,4 +1,4 @@
-# input & output example
+# Input & output example
 name = input("What is your name? ")
 print(name)
 print("Hello", name, "!", sep="+", end="")
@@ -13,11 +13,11 @@ print("\t")
 # f strings
 print(f"Hello, {name}!")
 
-# string formatting & type casting
+# String formatting & type casting
 age = int(input("How old are you? "))
 print(f"You will be {age + 1} years old next year.")
 
-# types
+# Types
 am_i_hungry = True
 am_i_hungry_type = type(am_i_hungry)
 
