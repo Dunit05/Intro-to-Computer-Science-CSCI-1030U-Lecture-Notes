@@ -13,7 +13,7 @@ Here you will find all the in-class lecture code that we go over. This repositor
 
 The workspace contains folders labeled by `date (name)` by default, where:
 
-- `Notes`: the folder contains the days lecture notes, with an executable jupyter notebook file `index.ipynb`.
+- `Notes`: the folder contains the days lecture notes, with an executable jupyter notebook file `index.ipynb`. (Code examples are broken down into sections and can be run individually)
 - `Exercises`: the folder contains the days exercises, with an executable python files `(exerciseName).py`.
 
 ## Getting Started
