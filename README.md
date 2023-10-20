@@ -9,6 +9,12 @@ Here you will find all the in-class lecture code that we go over. This repositor
 - [Pytest-cov](https://pytest-cov.readthedocs.io/en/latest/)
 - [Textbook](https://runestone.academy/runestone/books/published/thinkcspy/index.html)
 
+### Classes (Declaration)
+
+- Public: `class ClassName:`
+- Private: `class __ClassName:`
+- Protected: `class _ClassName:`
+
 ## Folder Structure
 
 The workspace contains folders labeled by `date (name)` by default, where:
